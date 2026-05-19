@@ -2,6 +2,9 @@
 
 This project focuses on time-series forecasting of CO₂ emissions using Long Short-Term Memory (LSTM) neural networks.
 
+Dataset source:
+https://carbonmonitor.org/
+
 ## Project Overview
 - Dataset: Carbon Monitor CO₂ emissions dataset
 - Techniques:
